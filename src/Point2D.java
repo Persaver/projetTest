@@ -2,7 +2,7 @@
 public class Point2D {
 	private int x=0,y=0,ix=0;
 	private static int incPoint = 0;
-
+   
 	
 	public Point2D(){
 		Point2D.incPoint++;
